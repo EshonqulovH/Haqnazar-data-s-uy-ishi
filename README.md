@@ -17,3 +17,7 @@ Bu uyga vazifalarda tahlillar va har hil graflar chiizilgan
 12 kunni uyga vazifasi
 ## home13
 13 kunni uyga vazifasi
+## home14
+14 kunni uyga vazifasi
+## home15
+15 kunni uyga vazifasi
